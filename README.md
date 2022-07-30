@@ -1,3 +1,3 @@
-## My Jekyll Based Homepage
 
-Use jekyll serve --watch to bring it up on your localhost  
+# MangalResume
+# Just Updated the file and commit
